@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-## A couple of the projects I have been working on. The projects are either written in Python (Jupyter Notebook). Click on the projects to see full analysis and code.
+## A couple of the projects I have been working on. The projects are written in Python (Jupyter Notebook). Click on the projects to see full analysis and code.
 
 # Projects:
 
